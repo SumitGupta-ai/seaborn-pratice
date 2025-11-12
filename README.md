@@ -14,3 +14,6 @@ These plots help understand data distribution, relationships, and patterns — e
 - Customizing visualizations for better insights  
 
  *Next:* Categorical Data Visualization  
+ Added heatmap, 
+ clustermap and
+ pivot-based heatmap visualization using seaborn
